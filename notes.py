@@ -60,7 +60,6 @@
 # print(mylist[-1]) last value
 # print(mylist[1:4:0]) start:end:step
 # mylist[2] = karim will change the value to karim
-
 # mylist.append("ahamd") will add ahmad at the end
 
 # extend if we have two lists we can extend them put one into one
@@ -78,6 +77,7 @@
 
 # Tuple you cannot add or delete from tuple
 
+
 # mytuple = ("karim","moahmed")
 # print(mytuple * 6) will repeat th tuple 6 times
 
@@ -90,6 +90,9 @@
 
 
 # Dictonary with braces but has key and value
+
+
+
 # user = {
 # "name":"karim",
 # "age":20,
@@ -107,6 +110,13 @@
 
 # to print the file type it name.py
 
+
+
+# OOP in Python
+
+class Member:
+    def __init__(self):
+        pass
 
 
 
